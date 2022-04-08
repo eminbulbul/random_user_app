@@ -1,6 +1,5 @@
 import * as React from "react";
 import axios from "axios";
-
 import Button from "@mui/material/Button";
 import { useState, useEffect } from "react";
 import Email from "../assets/email.svg";
@@ -33,7 +32,7 @@ const Assetsmui = () => {
   };
   return (
     <div className="card">
-      <Card sx={{ maxWidth: 400 }} className="card-container">
+      <Card sx={{ maxWidth: 500 }} className="card-container">
         <CardActionArea>
           <CardMedia
             className="card-img"

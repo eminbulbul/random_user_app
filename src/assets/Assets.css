@@ -16,6 +16,7 @@
     align-items: center;
     margin-top: 5rem;
     
+    
 }
 .card-img{
 border-radius: 50%;
@@ -23,7 +24,9 @@ border-radius: 50%;
 .card-container{
 
    border:  1px solid black;
+   
 }
 .cardbelow{
-    background-color: antiquewhite;
+    background-color: rgb(216, 208, 197);
+    
 }
